@@ -6,6 +6,15 @@
     padding: 0;
     box-sizing: border-box;
 }
+ :root {
+      --bg-gradient: linear-gradient(135deg, #fceabb, #f8b500);
+      --card-bg: #fff;
+      --text-color: #000;
+      --button-bg: #ff9800;
+      --button-hover: #e68900;
+      --note-title: #ff9800;
+    }
+    
 
 body {
     font-family: "Inter", sans-serif;
